@@ -1,0 +1,233 @@
+{
+  "branches": [
+    {
+      "branch": "fan-dev",
+      "tasks": [
+        {
+          "task": "discount-calculator",
+          "missing": [
+            "initial_workspace",
+            "groundtruth_workspace"
+          ]
+        },
+        {
+          "task": "loyalty-program",
+          "missing": [
+            "initial_workspace",
+            "preprocess"
+          ]
+        }
+      ]
+    },
+    {
+      "branch": "gyy",
+      "tasks": [
+        {
+          "task": "robots-handler",
+          "missing": []
+        },
+        {
+          "task": "sitemap-generator",
+          "missing": [
+            "evaluation"
+          ]
+        },
+        {
+          "task": "tag-manager",
+          "missing": []
+        }
+      ]
+    },
+    {
+      "branch": "haoze",
+      "tasks": [
+        {
+          "task": "media-organizer",
+          "missing": []
+        },
+        {
+          "task": "streaming-service",
+          "missing": [
+            "initial_workspace",
+            "preprocess"
+          ]
+        }
+      ]
+    },
+    {
+      "branch": "jl_dev",
+      "tasks": [
+        {
+          "task": "customer-feedback-processor",
+          "missing": [
+            "preprocess"
+          ]
+        },
+        {
+          "task": "inventory-management",
+          "missing": [
+            "initial_workspace",
+            "preprocess"
+          ]
+        }
+      ]
+    },
+    {
+      "branch": "junteng_dev",
+      "tasks": [
+        {
+          "task": "customer-portal",
+          "missing": [
+            "evaluation"
+          ]
+        },
+        {
+          "task": "help-desk",
+          "missing": [
+            "initial_workspace"
+          ]
+        }
+      ]
+    },
+    {
+      "branch": "junxian_dev",
+      "tasks": [
+        {
+          "task": "currency-converter",
+          "missing": []
+        },
+        {
+          "task": "social-connector",
+          "missing": []
+        }
+      ]
+    },
+    {
+      "branch": "lueyang-dev",
+      "tasks": []
+    },
+    {
+      "branch": "lv",
+      "tasks": [
+        {
+          "task": "analytics-dashboard",
+          "missing": [
+            "initial_workspace",
+            "groundtruth_workspace",
+            "preprocess"
+          ]
+        },
+        {
+          "task": "insights-engine",
+          "missing": []
+        },
+        {
+          "task": "survey-builder",
+          "missing": [
+            "groundtruth_workspace",
+            "preprocess"
+          ]
+        }
+      ]
+    },
+    {
+      "branch": "ruige",
+      "tasks": [
+        {
+          "task": "log-analyzer",
+          "missing": [
+            "groundtruth_workspace"
+          ]
+        },
+        {
+          "task": "web-crawler",
+          "missing": [
+            "groundtruth_workspace",
+            "preprocess"
+          ]
+        }
+      ]
+    },
+    {
+      "branch": "wenshuo-dev",
+      "tasks": [
+        {
+          "task": "cache-optimizer",
+          "missing": [
+            "initial_workspace",
+            "groundtruth_workspace"
+          ]
+        },
+        {
+          "task": "scheduler",
+          "missing": [
+            "groundtruth_workspace",
+            "preprocess"
+          ]
+        }
+      ]
+    },
+    {
+      "branch": "xiaochen_dev",
+      "tasks": [
+        {
+          "task": "health-monitor",
+          "missing": []
+        },
+        {
+          "task": "status-checker",
+          "missing": [
+            "initial_workspace",
+            "groundtruth_workspace"
+          ]
+        }
+      ]
+    },
+    {
+      "branch": "yuxuan-dev",
+      "tasks": [
+        {
+          "task": "sync-service",
+          "missing": [
+            "groundtruth_workspace",
+            "preprocess"
+          ]
+        }
+      ]
+    },
+    {
+      "branch": "yuzhen-dev",
+      "tasks": [
+        {
+          "task": "audit-logger",
+          "missing": []
+        },
+        {
+          "task": "resource-monitor",
+          "missing": []
+        }
+      ]
+    },
+    {
+      "branch": "zhaochen",
+      "tasks": [
+        {
+          "task": "certificate-manager",
+          "missing": [
+            "initial_workspace",
+            "groundtruth_workspace",
+            "preprocess"
+          ]
+        },
+        {
+          "task": "storage-manager",
+          "missing": [
+            "initial_workspace",
+            "groundtruth_workspace",
+            "preprocess"
+          ]
+        }
+      ]
+    }
+  ]
+}
